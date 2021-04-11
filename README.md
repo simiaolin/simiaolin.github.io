@@ -1,3 +1,2 @@
-## Welcome to lxx's GitHub Pages
-
-- [Welcome to lxx's GitHub Pages](#welcome-to-lxxs-github-pages)
+## Welcome to my blog!
+<!-- TOC -->autoauto- [Welcome to my blog!](#welcome-to-my-blog)autoauto<!-- /TOC -->
